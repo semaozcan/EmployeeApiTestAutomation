@@ -7,6 +7,7 @@ This project is created to perform automation tests for the Employee API using t
 -  Java 8 or above
 - Maven
 - Rest Assured
+- Gherkin
 - Cucumber
 
 ## Test Scenarios
