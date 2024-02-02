@@ -55,9 +55,10 @@ Open the [Employees.feature] in the project s main directory and run.
 ``` 
 
 ## How to check reports
-![Screenshot 2024-02-02 at 15.45.43.png](..%2F..%2FDesktop%2FScreenshot%202024-02-02%20at%2015.45.43.png)
+<img width="1154" alt="Screenshot 2024-02-02 at 15 45 43" src="https://github.com/semaozcanys/EmployeeApiTestAutomation/assets/97299054/25ef6a7c-b143-4b9f-b808-1960fdddf97a">
 
-![Screenshot 2024-02-02 at 09.31.26.png](..%2F..%2FDesktop%2FScreenshot%202024-02-02%20at%2009.31.26.png)
+<img width="1184" alt="Screenshot 2024-02-02 at 09 31 26" src="https://github.com/semaozcanys/EmployeeApiTestAutomation/assets/97299054/b1ceb342-8645-4ede-b784-7eff9fbc9dd5">
+
 
 After creation for the reports, you can reach from root directory. Example test results exist in root  directory.
 
